@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @migue802
+- 👀 I’m interested in JavaScript (node.js), HTML and Video Editing
+- 🌱 I’m currently learning Roblox's LUA
+- 📫 How to reach me 
+ - <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord" />Discord
